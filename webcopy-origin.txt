@@ -1,0 +1,60 @@
+Uri: https://mastercatsol.com/
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\index.htm
+Content Type: text/html
+
+Uri: https://mastercatsol.com/26387fa4f5b1e3f7b6217b27d79bf264.png
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\26387fa4f5b1e3f7b6217b27d79bf264.png
+Content Type: image/png
+
+Uri: https://mastercatsol.com/2d0b56e7e51cf11036ad8734bdb67e2d.png
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\2d0b56e7e51cf11036ad8734bdb67e2d.png
+Content Type: image/png
+
+Uri: https://mastercatsol.com/725b756a69a7d4c235070e51acd85560.png
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\725b756a69a7d4c235070e51acd85560.png
+Content Type: image/png
+
+Uri: https://mastercatsol.com/fonts/1060345c54d396e76d73f1da7ee200bd.woff2
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\fonts\1060345c54d396e76d73f1da7ee200bd.woff2
+Content Type: font/woff2
+
+Uri: https://mastercatsol.com/fonts/6d452b1046bdb81497ae3d95ac0ba0f0.woff2
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\fonts\6d452b1046bdb81497ae3d95ac0ba0f0.woff2
+Content Type: font/woff2
+
+Uri: https://mastercatsol.com/fonts/98c4d2c0223fc8474641c77f923528e9.woff2
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\fonts\98c4d2c0223fc8474641c77f923528e9.woff2
+Content Type: font/woff2
+
+Uri: https://mastercatsol.com/fonts/d257a7100844bc3f98c9021168b6249e.woff2
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\fonts\d257a7100844bc3f98c9021168b6249e.woff2
+Content Type: font/woff2
+
+Uri: https://mastercatsol.com/fonts/f8f199f09526f79e87644ed227e0f651.woff2
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\fonts\f8f199f09526f79e87644ed227e0f651.woff2
+Content Type: font/woff2
+
+Uri: https://mastercatsol.com/images/07b709dfcea00d8bfdb25f7b99794365.svg
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\images\07b709dfcea00d8bfdb25f7b99794365.svg
+Content Type: image/svg+xml
+
+Uri: https://mastercatsol.com/images/195744308f855912778b152a2b0e3513.png
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\images\195744308f855912778b152a2b0e3513.png
+Content Type: image/png
+
+Uri: https://mastercatsol.com/images/1a04ee76286aed4863c060aac2b2f31a.svg
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\images\1a04ee76286aed4863c060aac2b2f31a.svg
+Content Type: image/svg+xml
+
+Uri: https://mastercatsol.com/images/b930eaf3eaac6ee730c3bc051a3ca99c.png
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\images\b930eaf3eaac6ee730c3bc051a3ca99c.png
+Content Type: image/png
+
+Uri: https://mastercatsol.com/images/bc6f295ddb9a0b9f91962b225c3b6808.png
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\images\bc6f295ddb9a0b9f91962b225c3b6808.png
+Content Type: image/png
+
+Uri: https://mastercatsol.com/js/939898b427480d700449229ff00dbb8a6f9f77442b532f697866e6914ab8843a.js
+File Name: C:\Users\lavat\Downloads\mastercatsol.com\js\939898b427480d700449229ff00dbb8a6f9f77442b532f697866e6914ab8843a.js
+Content Type: application/javascript
+
